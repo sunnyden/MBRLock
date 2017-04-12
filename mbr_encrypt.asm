@@ -121,10 +121,10 @@ Success:
 
 ;;;Data	Region
 SysName:
-	db	"PC	Secure	System	--by:Haoqing	Deng"
+	db	"PC Secure System -- by:Haoqing Deng"
 LenName	equ	($-SysName)
 Note2:
-	db	"Please	input	your	password	to	load	the	MBR	program."
+	db	"Please input your password to load the MBR program."
 LenNote2	equ	($-Note2)
 Note3:
 	db	"Password:"
